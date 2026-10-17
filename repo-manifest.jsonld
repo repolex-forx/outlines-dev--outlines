@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/outlines-dev/outlines/commit/c52af8472c6fe8a607a733ec11b709476af77a96",
       "git:hexsha": "c52af8472c6fe8a607a733ec11b709476af77a96",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     },
     {
       "@id": "https://repolex.ai/r/outlines-dev/outlines/commit/c2d60d0eee6a76a09ed180e4e0e303c7827e48d2",
